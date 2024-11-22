@@ -9,7 +9,7 @@ class GoogleMapsFlutter extends StatefulWidget {
 }
 
 class _GoogleMapsFlutterState extends State<GoogleMapsFlutter> {
-  LatLng myCurrentLocation = const LatLng(-22.907154951269916, -47.07911257052501);
+  LatLng myCurrentLocation = const LatLng(-22.913474429846517, -47.068936291520366  );
 
   @override
   Widget build(BuildContext context) {
